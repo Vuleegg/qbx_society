@@ -1,0 +1,74 @@
+[
+    {
+        "balance": 0,
+        "job": "tow"
+    },
+    {
+        "balance": 0,
+        "job": "unemployed"
+    },
+    {
+        "balance": 0,
+        "job": "bus"
+    },
+    {
+        "balance": 0,
+        "job": "cardealer"
+    },
+    {
+        "balance": 0,
+        "job": "mechanic"
+    },
+    {
+        "balance": 0,
+        "job": "garbage"
+    },
+    {
+        "balance": 0,
+        "job": "sasp"
+    },
+    {
+        "balance": 0,
+        "job": "bcso"
+    },
+    {
+        "balance": 0,
+        "job": "taxi"
+    },
+    {
+        "balance": 0,
+        "job": "hotdog"
+    },
+    {
+        "balance": 0,
+        "job": "police"
+    },
+    {
+        "balance": 0,
+        "job": "ambulance"
+    },
+    {
+        "balance": 0,
+        "job": "lawyer"
+    },
+    {
+        "balance": 0,
+        "job": "reporter"
+    },
+    {
+        "balance": 0,
+        "job": "judge"
+    },
+    {
+        "balance": 0,
+        "job": "realestate"
+    },
+    {
+        "balance": 0,
+        "job": "trucker"
+    },
+    {
+        "balance": 0,
+        "job": "vineyard"
+    }
+]
