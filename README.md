@@ -10,9 +10,7 @@ Before using the functions outlined below, make sure you have the `qbx_society` 
 
 The `qbx_society` resource allows you to manage monetary balances for different job types and gangs. Below are examples demonstrating how to use the resource.
 
-### 1. Get the Balance for a Job
-
-To get the current balance for a job, use the `GetMoney` function. This example demonstrates how to fetch the balance for the police job:
+### 1. EXPORTS
 
 ```lua
 -- Get the balance for a job
